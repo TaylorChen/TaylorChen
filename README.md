@@ -67,6 +67,11 @@
 ## 📝 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [Vibe Coding的时间效应](https://taylorchen.github.io/ai/2025/09/23/Vibe-Coding%E7%9A%84%E6%97%B6%E9%97%B4%E6%95%88%E5%BA%94.html)
+- [李想首次系统回顾25年创业历程与产品思考](https://taylorchen.github.io/%E5%88%9B%E4%B8%9A/2025/08/24/%E6%9D%8E%E6%83%B3%E9%A6%96%E6%AC%A1%E7%B3%BB%E7%BB%9F%E5%9B%9E%E9%A1%BE25%E5%B9%B4%E5%88%9B%E4%B8%9A%E5%8E%86%E7%A8%8B%E4%B8%8E%E4%BA%A7%E5%93%81%E6%80%9D%E8%80%83.html)
+- [关于AI应用的思考](https://taylorchen.github.io/ai/2025/08/02/%E5%85%B3%E4%BA%8EAI%E5%BA%94%E7%94%A8%E7%9A%84%E6%80%9D%E8%80%83.html)
+- [Nginx Ingress 高并发场景优化实践](https://taylorchen.github.io/%E6%8A%80%E6%9C%AF/nginx/2025/07/01/Nginx-Ingress-%E9%AB%98%E5%B9%B6%E5%8F%91%E5%9C%BA%E6%99%AF%E4%BC%98%E5%8C%96%E5%AE%9E%E8%B7%B5.html)
+- [Nginx 零停机灰度发布与回滚策略](https://taylorchen.github.io/%E6%8A%80%E6%9C%AF/nginx/2025/06/28/Nginx-%E9%9B%B6%E5%81%9C%E6%9C%BA%E7%81%B0%E5%BA%A6%E5%8F%91%E5%B8%83%E4%B8%8E%E5%9B%9E%E6%BB%9A%E7%AD%96%E7%95%A5.html)
 <!-- BLOG-POST-LIST:END -->
 
 > 📖 更多文章请访问 [我的博客](https://taylorchen.github.io)
