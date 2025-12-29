@@ -44,11 +44,6 @@ jobs:
           # 代码行数统计
           plugin_lines: yes
           
-          # 最近活动
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_days: 14
-          
           # 后续跟踪
           plugin_followup: yes
           plugin_followup_sections: repositories
