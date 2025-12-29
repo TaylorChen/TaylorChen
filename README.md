@@ -78,13 +78,6 @@
 
 ---
 
-## ⚡ 最近活动
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
 ## 💭 博客内容
 
 我的博客主要分享以下内容：
