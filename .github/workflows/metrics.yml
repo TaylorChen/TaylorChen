@@ -23,7 +23,7 @@ jobs:
           # 基本配置
           user: TaylorChen
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, community, repositories, metadata
           
           # 配置项
           config_timezone: Asia/Shanghai
