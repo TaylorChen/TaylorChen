@@ -1,0 +1,35 @@
+name: Update README
+
+on:
+  schedule:
+    # 每天 UTC 时间 0:00 自动运行（北京时间 8:00）
+    - cron: '0 0 * * *'
+  workflow_dispatch: # 允许手动触发
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Update blog posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: 'https://taylorchen.github.io/feed.xml'
+          max_post_count: 5
+          comment_tag_name: 'BLOG-POST-LIST'
+          commit_message: '📝 Updated blog posts'
+          committer_username: 'github-actions[bot]'
+          committer_email: 'github-actions[bot]@users.noreply.github.com'
+
+      - name: Update GitHub activity
+        uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: '⚡ Updated GitHub activity'
+          MAX_LINES: 10
