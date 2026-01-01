@@ -58,7 +58,7 @@
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TaylorChen&theme=default&hide_border=true&background=FFFFFF&stroke=0E75B6&ring=0E75B6&fire=FF6B35&currStreakLabel=333333&sideNums=333333&currStreakNum=0E75B6&sideLabels=333333&dates=666666)
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=TaylorChen&theme=default)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
 </div>
 
