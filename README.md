@@ -67,11 +67,11 @@
 ## 📝 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [【翻译】2025年LLM年度总结 by Simon Willison](https://taylorchen.github.io/ai/%E6%8A%80%E6%9C%AF/2026/01/02/2025%E5%B9%B4LLM%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93.html)
+- [代码之外的智慧:AI时代工程师的七个思维跃迁](https://taylorchen.github.io/%E6%88%90%E9%95%BF/ai/2026/01/02/%E4%BB%A3%E7%A0%81%E4%B9%8B%E5%A4%96%E7%9A%84%E6%99%BA%E6%85%A7-AI%E6%97%B6%E4%BB%A3%E5%B7%A5%E7%A8%8B%E5%B8%88%E7%9A%84%E4%B8%83%E4%B8%AA%E6%80%9D%E7%BB%B4%E8%B7%83%E8%BF%81.html)
 - [2025年总结](https://taylorchen.github.io/%E6%80%9D%E8%80%83/2025/12/31/2025%E5%B9%B4%E6%80%BB%E7%BB%93.html)
 - [Vibe Coding的时间效应](https://taylorchen.github.io/ai/2025/09/23/Vibe-Coding%E7%9A%84%E6%97%B6%E9%97%B4%E6%95%88%E5%BA%94.html)
 - [李想首次系统回顾25年创业历程与产品思考](https://taylorchen.github.io/%E5%88%9B%E4%B8%9A/2025/08/24/%E6%9D%8E%E6%83%B3%E9%A6%96%E6%AC%A1%E7%B3%BB%E7%BB%9F%E5%9B%9E%E9%A1%BE25%E5%B9%B4%E5%88%9B%E4%B8%9A%E5%8E%86%E7%A8%8B%E4%B8%8E%E4%BA%A7%E5%93%81%E6%80%9D%E8%80%83.html)
-- [关于AI应用的思考](https://taylorchen.github.io/ai/2025/08/02/%E5%85%B3%E4%BA%8EAI%E5%BA%94%E7%94%A8%E7%9A%84%E6%80%9D%E8%80%83.html)
-- [Nginx Ingress 高并发场景优化实践](https://taylorchen.github.io/%E6%8A%80%E6%9C%AF/nginx/2025/07/01/Nginx-Ingress-%E9%AB%98%E5%B9%B6%E5%8F%91%E5%9C%BA%E6%99%AF%E4%BC%98%E5%8C%96%E5%AE%9E%E8%B7%B5.html)
 <!-- BLOG-POST-LIST:END -->
 
 > 📖 更多文章请访问 [我的博客](https://taylorchen.github.io)
