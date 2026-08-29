@@ -5,21 +5,29 @@ on:
     # 每天 UTC 时间 0:00 自动运行（北京时间 8:00）
     - cron: '0 0 * * *'
   workflow_dispatch: # 允许手动触发
+  # 允许博客仓库发布后立刻触发（发送 event_type: new-blog-post 的 repository_dispatch）
+  repository_dispatch:
+    types: [new-blog-post]
+
+# 同一时间只允许一个 Update README 运行，避免并发提交打架
+concurrency:
+  group: update-readme
+  cancel-in-progress: false
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-    
+
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v7.0.1
 
       - name: Update blog posts
-        uses: gautamkrishnar/blog-post-workflow@v1
+        uses: gautamkrishnar/blog-post-workflow@1.9.7
         with:
-          feed_list: 'https://taylorchen.github.io/feed.xml'
+          feed_list: 'https://chen.zz.ac/feed.xml'
           max_post_count: 5
           comment_tag_name: 'BLOG-POST-LIST'
           commit_message: '📝 Updated blog posts'

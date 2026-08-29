@@ -1,0 +1,10 @@
+# Jekyll 本地构建产物（本仓库无 Jekyll 源码，这些是误在此目录执行 jekyll 留下的）
+_site/
+.jekyll-cache/
+.jekyll-metadata
+
+# 系统与编辑器
+.DS_Store
+*.swp
+.idea/
+.vscode/
