@@ -2,7 +2,7 @@
 
 # 👋 你好，我是 AI即世界
 
-*开发者及AI从业者 | 喜欢用代码构建事物，并分享学到的知识*
+*AI Agent 工程师 | 造 Claude Code 生态工具，写 AI Native 工程实践*
 
 </div>
 
@@ -22,6 +22,7 @@
 | 项目 | 说明 |
 | --- | --- |
 | [**atoll**](https://github.com/TaylorChen/atoll) | AI coding agent 的 macOS 灵动岛，在悬浮面板里同时盯多个 agent 会话（Claude Code / Codex / Gemini），并直接处理权限请求 |
+| [**super-skills**](https://github.com/TaylorChen/super-skills) | 20 个开箱即用的 Agent Skills，带验证工具与真实案例 |
 | [**lmd**](https://github.com/TaylorChen/lmd) | Tauri + React + Rust 的原生 Markdown 编辑器，local-first 笔记与 AI 辅助写作 |
 | [**rss-hub**](https://github.com/TaylorChen/rss-hub) | Go 写的 Web RSS 阅读器，可作桌面应用也可自托管，零依赖开箱即用 |
 | [**collab-grid**](https://github.com/TaylorChen/collab-grid) | 开源实时协作电子表格，monorepo 架构 |
@@ -41,3 +42,5 @@
 <!-- BLOG-POST-LIST:END -->
 
 > 📖 更多文章请访问 [我的博客](https://chen.zz.ac)
+>
+> 📡 博客列表由 GitHub Action 每日自动同步
