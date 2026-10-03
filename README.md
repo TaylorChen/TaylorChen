@@ -34,11 +34,11 @@
 ## 📝 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [当 agent 有了手机号和钱包，”委托”才成为真问题](https://chen.zz.ac/ai/%E6%8A%80%E6%9C%AF/2026/10/02/%E5%BD%93agent%E6%9C%89%E4%BA%86%E6%89%8B%E6%9C%BA%E5%8F%B7%E5%92%8C%E9%92%B1%E5%8C%85-%E5%A7%94%E6%89%98%E6%89%8D%E6%88%90%E4%B8%BA%E7%9C%9F%E9%97%AE%E9%A2%98.html)
 - [一小时写完，三周上线：读阿里《AI Native 研发范式实践手册》](https://chen.zz.ac/ai/%E6%8A%80%E6%9C%AF/2026/09/26/%E4%B8%80%E5%B0%8F%E6%97%B6%E5%86%99%E5%AE%8C%E4%B8%89%E5%91%A8%E4%B8%8A%E7%BA%BF-%E8%AF%BB%E9%98%BF%E9%87%8CAI-Native%E7%A0%94%E5%8F%91%E6%89%8B%E5%86%8C.html)
 - [把 Grok Bot 的云主机变成 SSH 跳板：bore 内网穿透实战](https://chen.zz.ac/ai/%E6%8A%80%E6%9C%AF/2026/08/29/%E6%8A%8AGrok-Bot%E7%9A%84%E4%BA%91%E4%B8%BB%E6%9C%BA%E5%8F%98%E6%88%90SSH%E8%B7%B3%E6%9D%BF-bore%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F%E5%AE%9E%E6%88%98.html)
 - [组织即上下文：从 AGENTS.md 到文件夹主权](https://chen.zz.ac/ai/%E6%8A%80%E6%9C%AF/2026/07/26/%E7%BB%84%E7%BB%87%E5%8D%B3%E4%B8%8A%E4%B8%8B%E6%96%87-%E4%BB%8EAGENTS-md%E5%88%B0%E6%96%87%E4%BB%B6%E5%A4%B9%E4%B8%BB%E6%9D%83.html)
 - [经验不是记忆，也不是 Skill：Agent 记忆的第五层](https://chen.zz.ac/ai/%E6%8A%80%E6%9C%AF/2026/07/26/%E7%BB%8F%E9%AA%8C%E4%B8%8D%E6%98%AF%E8%AE%B0%E5%BF%86%E4%B9%9F%E4%B8%8D%E6%98%AFSkill-Agent%E8%AE%B0%E5%BF%86%E7%9A%84%E7%AC%AC%E4%BA%94%E5%B1%82.html)
-- [Agent 数量是第三条 Scaling 轴：从 Kimi K2.5 看有效并行](https://chen.zz.ac/ai/%E6%8A%80%E6%9C%AF/2026/07/18/Agent%E6%95%B0%E9%87%8F%E6%98%AF%E7%AC%AC%E4%B8%89%E6%9D%A1Scaling%E8%BD%B4-%E4%BB%8EKimi-K2.5%E7%9C%8B%E6%9C%89%E6%95%88%E5%B9%B6%E8%A1%8C.html)
 <!-- BLOG-POST-LIST:END -->
 
 > 📖 更多文章请访问 [我的博客](https://chen.zz.ac)
